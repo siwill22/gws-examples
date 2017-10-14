@@ -1,4 +1,4 @@
-*.py linguist-language=python
-*.r linguist-language=R
-*.m linguist-language=matlab
-*.sh linguist-language=shell
+* linguist-language=python
+* linguist-language=R
+* linguist-language=matlab
+* linguist-language=shell
