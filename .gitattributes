@@ -1,5 +1,2 @@
-linguist-language=python
-linguist-language=R
-linguist-language=matlab
-linguist-language=shell
-linguist-language=various
+* linguist-language=various
+
